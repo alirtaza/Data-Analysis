@@ -3,7 +3,13 @@
 
 # # Most used Apps
 # 
-# As our company builts free Android and iOS mobile apps and company's main sourse of revenue is from in apps ads, so this project is about finding apps which are most profitable in Google store and App store. This would help our compnay to understand what type of apps are likely to attract more users. Our goal is to build a minimal Android app and launch it on Google Store. If the app have positive reponse we will make its ios version with some improvements to launch it on Apple Store so we need to find the app profile which fits both Apple Store and Google Store as well.
+# As our company builts free Android and iOS mobile apps and company's main sourse of revenue is from in apps ads, 
+# so this project is about finding apps which are most profitable in Google store and App store. 
+# This would help our compnay to understand what type of apps are likely to attract more users. 
+# Our goal is to build a minimal Android app and launch it on Google Store. 
+# If the app have positive reponse we will make its ios version with some 
+# improvements to launch it on Apple Store so we need to find the app profile which fits both 
+# Apple Store and Google Store as well.
 
 # In[1]:
 
